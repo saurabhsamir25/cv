@@ -45,7 +45,7 @@ a {
   color: #11999e;
   margin: 10px 20px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 a:hover {
@@ -55,8 +55,8 @@ a:hover {
 .top-cloud {
   position: relative;
   width: 300px;
-  margin-left: 1000px;
-  margin-top: 20px;
+  margin-left: 70%;
+  margin-top: 2%;
 }
 
 .top-cloud2 {
@@ -74,7 +74,7 @@ a:hover {
 
 .bottom-cloud2 {
   position: absolute;
-  margin-left: 750px;
+  margin-left: 40%;
   width: 250px;
 }
 
